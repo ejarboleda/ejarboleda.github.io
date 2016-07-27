@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ejarboleda.github.io
+title: Taxumo | Blog
+tagline: Automate Your Taxes
+description: The latest updates regarding taxes.
+paginate: 5
